@@ -13,5 +13,3 @@ I’m a Computer Games Programming student at SETU, awaiting graduation. I'm cur
 
 - LinkedIn: [Ben Price](https://www.linkedin.com/in/bendjnprice/)
 - My Games: [Project Deception](https://project-deception.itch.io/)
-
-Thanks for stopping by! 😊
