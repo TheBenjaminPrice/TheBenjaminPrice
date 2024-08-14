@@ -5,7 +5,7 @@ I’m a Computer Games Programming student at SETU, awaiting graduation. I'm cur
 ## 🚀 Skills
 
 - **Languages:** : C, C#, C++, HTML, CSS
-- **Secondary Languages:** : Python, JavaScript, R,
+- **Secondary Languages:** : Python, JavaScript, R
 - **Engines:** Unity, Unreal
 - **IDE’s:** Visual Studio, Visual Studio Code
 
